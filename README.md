@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding, especially game development!
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: menahilaqureshi@gmail.com 
-- 😄 Pronouns: she/her
 
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
