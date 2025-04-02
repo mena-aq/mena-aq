@@ -5,7 +5,7 @@ Who Am I ? My name is Menahil, and I'm a Second Year Computer Science student al
 
 I love programming and learning about all the behind-the-scenes computations that power our world 
 
-I've explored many fields of learning, and have enjoyed making projects to enhance my learning and showcase my skills, including Front-End Development, Game Development, C++ Programming, x86 Assembly, and Data Analysis using Python!
+I've explored many fields of learning, and have enjoyed making projects to enhance my learning and showcase my skills, including Front-End Development, Game Development, C++ Programming, x86 Assembly, and Data Analysis / Scripting using Python!
 
 ✉️ You can reach me at: menahilaqureshi@gmail.com
 
