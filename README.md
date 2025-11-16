@@ -1,7 +1,7 @@
 Hello! 😀 
 This is my Github page, the home to all my personal and course projects!
 
-Who Am I ? My name is Menahil, and I'm a Second Year Computer Science student always looking to further her knowledge about the complex world powering all our technical systems!
+Who Am I ? My name is Menahil, and I'm a Third Year Computer Science student always looking to further her knowledge about the complex world powering all our technical systems!
 
 I love programming and learning about all the behind-the-scenes computations that power our world 
 My interests include web development, machine learning, and cybersecurity; but most of all, what drives me is creating engaging applications with positive impact, while staying grounded in ethical responsibility.
